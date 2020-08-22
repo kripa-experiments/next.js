@@ -50,8 +50,10 @@ export default function Home() {
            style="color:blue;">Is this like insurance for stocks?
         </p>
         <p className={styles.description}>
-           Yup. SPY &#128480; limit to &#x1F53B; % crash-covered.
-           &#x274C; &#x1F61F; = &#1F60F; &#10548;.
+           Yup. SPY losses limited to &#x1F53B; % crash-covered.
+        </p>
+        <p className={styles.description}>
+           &#x274C; &#x1F61F; = &#x1F60F; &#10548;. Fat Neo style.
         </p>
       </main>
     </div>
