@@ -5,7 +5,7 @@ export default function Home() {
     <div className={styles.container}>
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Hello. Welcome to <a href="https://nextjs.org">Next.js!</a>
+          <a href="https://fatneo.com">Fat Neo</a>
         </h1>
 
         <p className={styles.description}>
