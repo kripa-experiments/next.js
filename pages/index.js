@@ -7,6 +7,10 @@ export default function Home() {
         <h1 className={styles.title}>
           <a href="https://fatneo.com">Fat Neo</a>
         </h1>
+    
+        <h1 className={styles.title}>
+          Crash &#9937; Cover
+          </h1>
 
         <p className={styles.description}>
           Get started by editing{' '}
