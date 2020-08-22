@@ -28,7 +28,7 @@ export default function Home() {
           </a>
     
         <a
-            href="https://whatstrading.com"
+            href="https://whatstrading.trade-alert.com/wt/charts/SPY"
             className={styles.card}
           >
             <h3>Here's the data &rarr;</h3>
