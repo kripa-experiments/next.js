@@ -53,11 +53,11 @@ export default function Home() {
            Yup. SPY losses limited to &#x1F53B; % crash-covered.
         </p>
         <p className={styles.description}>
-           &#x274C; &#x1F61F; = &#x1F60F; &#10548;
+           &#x274C; &#x1F61F; => &#x1F60F; &#10548;
         </p>
-         <h3 className={styles.description}>
-          <a href="https://fatneo.com">Fat Neo style.</a>
-          </h3>
+      <h1 className={styles.title}>
+          <a href="https://fatneo.com">Fat Neo Style</a>
+        </h1>
       </main>
     </div>
   )
