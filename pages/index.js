@@ -47,11 +47,11 @@ export default function Home() {
         </div>
     
         <p className={styles.description}>
-           style="color:blue;">How does it work?
+           style="color:blue;">Is this like insurance for stocks?
         </p>
         <p className={styles.description}>
-           Cap &#128480; to &#x1F53B; covered.<br>
-           A &#x274C; &#x1F61F; insurance for shares.
+           Yup. SPY &#128480; limit to &#x1F53B; % crash-covered.
+           &#x274C; &#x1F61F; = &#1F60F; &#10548;.
         </p>
       </main>
     </div>
