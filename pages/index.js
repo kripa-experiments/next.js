@@ -19,12 +19,12 @@ export default function Home() {
         <div className={styles.grid}>
           <a href="https://fatneo.com" className={styles.card}>
           <h3>SPY Oct. 16 &#x1F53B; 5%</h3>
-            <p>0.9 Cents per $1 Fractional SPY Coverage</p>
+            <p>0.9 Cents / $1 of SPY held now</p>
           </a>
     
            <a href="https://fatneo.com" className={styles.card}>
           <h3>SPY Oct. 16 &#x1F53B; 10%</h3>
-            <p>0.3 Cents per $1 Fractional SPY Coverage</p>
+            <p>0.3 Cents / $1 of SPY held now</p>
           </a>
     
         <a
@@ -45,6 +45,15 @@ export default function Home() {
             </p>
           </a>
         </div>
+    
+        <p className={styles.description}>
+           How does it work?
+        </p>
+        <p className={styles.description}>
+           Losses on the SPY position never drop below decline covered.
+           Think of it as a stop loss insurance policy, 
+           that allows you to invest in offense, knowing you have defense covered.
+        </p>
       </main>
     </div>
   )
