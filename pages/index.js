@@ -46,7 +46,7 @@ export default function Home() {
           </a>
         </div>
     
-        <p className={styles.description}>
+        <p className={styles.description}
            style="color:blue;">Is this like insurance for stocks?
         </p>
         <p className={styles.description}>
