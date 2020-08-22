@@ -47,12 +47,11 @@ export default function Home() {
         </div>
     
         <p className={styles.description}>
-           How does it work?
+           style="color:blue;">How does it work?
         </p>
         <p className={styles.description}>
-           Losses on the SPY position never drop below decline covered.
-           Think of it as a stop loss insurance policy, 
-           that allows you to invest in offense, knowing you have defense covered.
+           Cap &#128480; to &#x1F53B; covered.<br>
+           A &#x274C; &#x1F61F; insurance for shares.
         </p>
       </main>
     </div>
