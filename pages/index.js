@@ -18,13 +18,13 @@ export default function Home() {
 
         <div className={styles.grid}>
           <a href="https://fatneo.com" className={styles.card}>
-          <h3>SPY Oct. 16 &darr; 5%</h3>
-            <p>0.9 Cents per $1 Cover</p>
+          <h3>SPY Oct. 16 &#x1F53B; 5%</h3>
+            <p>0.9 Cents per $1 Fractional SPY Coverage</p>
           </a>
     
            <a href="https://fatneo.com" className={styles.card}>
-          <h3>SPY Oct. 16 &darr; 10%</h3>
-            <p>0.3 Cents per $1 Cover</p>
+          <h3>SPY Oct. 16 &#x1F53B; 10%</h3>
+            <p>0.3 Cents per $1 Fractional SPY Coverage</p>
           </a>
     
         <a
